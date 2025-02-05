@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **"advanced cloud automation, AI model optimization, and large-scale data engineering."**
 
-- 👯 I’m looking to collaborate on **"I'm looking to collaborate on data engineering, cloud automation, machine learning, and analytics projects. Interested in optimizing data pipelines, deploying scalable cloud solutions, and building AI-powered applications."**
+- 👯 I’m looking to collaborate on **"data engineering, cloud automation, machine learning, and analytics projects. Interested in optimizing data pipelines, deploying scalable cloud solutions, and building AI-powered applications."**
 
 - 🤝 I’m **"Looking for help with optimizing data pipelines, scaling cloud solutions, and fine-tuning AI models."**
 
