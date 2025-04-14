@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shiva Charan Pailla</h1>
 <h3 align="center">"Data Engineer | Cloud & ML Enthusiast | AWS | Azure | Python | SQL | Data Pipelines | Visualization"</h3>
 
-- 🔭 I’m currently working on **Generative Ai(LLM)with the Kontur Inc**
+- 🔭 I’m currently working on **Generative Ai(LLM)**
 
 - 🌱 I’m currently learning **"advanced cloud automation, AI model optimization, and large-scale data engineering."**
 
