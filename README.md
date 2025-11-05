@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shiva Charan Pailla</h1>
-<h3 align="center">"SoftWare Engineer | Cloud & ML Enthusiast | AWS | Azure | Python, C++ | SQL "</h3>
+<h3 align="center">"Software Engineer | Cloud & ML Enthusiast | AWS | Azure | Python, C++ | SQL "</h3>
 
-- 🔭 I’m currently working for **Netapp**
-
-- 🌱 I’m currently learning **"advanced cloud automation, AI model optimization, and large-scale data engineering."**
+- 🔭 I’m currently working at **Netapp**
 
 - 👯 I’m looking to collaborate on **"data engineering, cloud automation, machine learning, and analytics projects. Interested in optimizing data pipelines, deploying scalable cloud solutions, and building AI-powered applications."**
 
